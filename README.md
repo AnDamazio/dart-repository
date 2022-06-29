@@ -1,1 +1,1 @@
-This is a basic Flutter learning repository
+This is a basic Dart learning repository

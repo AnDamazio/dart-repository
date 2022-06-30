@@ -8,10 +8,13 @@ class Person {
   // }
 
   //or
-  Person({required String name, required int age}) {
-    this.name = name;
-    this.age = age;
-  }
+  // Person({required String name, required int age}) {
+  //   this.name = name;
+  //   this.age = age;
+  // }
+
+  //or
+  Person({required this.name, required this.age});
 }
 
 void main() {
